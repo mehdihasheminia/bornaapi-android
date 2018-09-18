@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BornaAPI</string>
+
+    <string name="exception_leaderboards">There was an issue communicating with leaderboards.</string>
+    <string name="error_signin_other">There was an issue with sign in.  Please try again later.</string>
+    <string name="msg_loading_from_cloud">loading from cloud</string>
+    <string name="exception_multiplayer">There was an issue communicating with google multiplayers.</string>
+    <string name="error_write_snapshot">write snapshot error</string>
+    <string name="error_opening_metadata">error opening metadata</string>
+    <string name="error_opening_filename">error opening filename</string>
+    <string name="exception_status_error">%1$s (status %2$d). %3$s.</string>
+    <string name="format_days_ago">%d days ago</string>
+    <string name="format_hours_ago">%d hours ago</string>
+    <string name="format_minutes_ago">%d minutes ago</string>
+    <string name="format_seconds_ago">%d seconds ago</string>
+    <string name="format_moments_ago">moments ago</string>
+    <string name="txt_select_conflicted_game">select conflicted game</string>
+    <string name="imageView_snapshot_desc">Saved image for snapshot</string>
+    <string name="imgview_invitee_img_desc">profile picture</string>
+    <string name="txt_is_inviting_you">شما را به مسابقه دعوت کرده است! آیا می پذیرید؟</string>
+    <string name="txt_cant_accept_invitation">شما را به مسابقه دعوت کرده اما شما ژتونی برای شروع مسابقه ندارید! لطفاً نسبت به خرید ژتون اقدام نمائید.</string>
+    <string name="txt_desc_about">...</string>
+    <string name="txt_btn_ok">خُب</string>
+    <string name="txt_btn_yes">بله</string>
+    <string name="txt_no">خیر</string>
+
+
+</resources>

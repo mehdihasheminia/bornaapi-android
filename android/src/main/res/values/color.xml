@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="txtGray">#4c4c4c</color>
+    <color name="txtBlack">#000000</color>
+    <color name="txtWhite">#ffffff</color>
+    <color name="backgroundDialog">#ffffff</color>
+    <color name="backgroundButton">#eeeeee</color>
+    <color name="backgroundButtonPressed">#e0e0e0</color>
+    <color name="backgroundToolbar">#245575</color>
+    <color name="backgroundTableTitle">#64245575</color>
+    <color name="backgroundTable">#40245575</color>
+    <color name="strokeButtonNormal">#9e9e9e</color>
+    <color name="strokeButtonPressed">#616161</color>
+    <color name="strokeButtonFocused">#e57373</color>
+</resources>
